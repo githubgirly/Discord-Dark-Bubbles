@@ -8,9 +8,9 @@
         "warning-color": "#faa81ad9",
         "alert": "#faa81ad9",
           "eventbubble-self-bg": "#6272a4",
-          "eventbubble-others-bg": "#2E3235",
+          "eventbubble-others-bg": "#44475A",
           "eventbubble-bg-hover": "#2F3336",
-          "eventbubble-reply-color": "#6A4E2F",
+          "eventbubble-reply-color": "#e5a50a",
 
         "sidebar-color": "#202225",
         "roomlist-background-color": "#2f3136",
